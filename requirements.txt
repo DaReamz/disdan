@@ -1,0 +1,6 @@
+shapesinc
+discord.py
+jishaku
+tortoise-orm
+flask
+asyncpg
