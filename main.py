@@ -20,6 +20,7 @@ from shapesinc import (
 SHAPES_API_KEY = os.environ.get("SHAPES_API_KEY")
 DISCORD_TOKEN = os.environ.get("DISCORD_TOKEN")
 MODEL = os.environ.get("MODEL")
+# BASE_URL = os.environ.get("SHAPES_API_URL")
 SHAPES_APP_ID = os.environ.get("SHAPES_APP_ID")
 OWNER_DISCORD_ID = os.environ.get("OWNER_ID")
 OWNER_DISCORD_ID2 = os.environ.get("OWNER_ID2")
